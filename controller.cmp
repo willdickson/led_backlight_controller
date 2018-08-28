@@ -1,0 +1,179 @@
+Cmp-Mod V01 Created by PcbNew   date = Mon 27 Aug 2018 02:02:47 PM PDT
+
+BeginCmp
+TimeStamp = 529F9150
+Path = /5B7E00B4
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = POT_EVUE2J;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F90F9
+Path = /529D4D6D
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F9104
+Path = /5B7E0545
+Reference = Q1;
+ValeurCmp = Q_NPN_EBC;
+IdModule  = SOT23EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F915B
+Path = /529D5079
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = SLIDE_SWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F916A
+Path = /529D3DDB
+Reference = U1;
+ValeurCmp = LTC6992_TSOT_32_6;
+IdModule  = SOT23_6_CUSTOM;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F9CF2
+Path = 
+Reference = M4;
+ValeurCmp = VAL**;
+IdModule  = MOUNT_HOLE_4_40;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F9CFB
+Path = 
+Reference = M2;
+ValeurCmp = VAL**;
+IdModule  = MOUNT_HOLE_4_40;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F9D1E
+Path = 
+Reference = M1;
+ValeurCmp = VAL**;
+IdModule  = MOUNT_HOLE_4_40;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B803B81
+Path = /5B804F6C
+Reference = U2;
+ValeurCmp = POLOLU_3V3;
+IdModule  = POLOLU_3V3:POLOLU_3V3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B80524E
+Path = /529D46DE
+Reference = R4;
+ValeurCmp = 124k;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B805271
+Path = /529D46A6
+Reference = R2;
+ValeurCmp = 976k;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B80528D
+Path = /529D46B5
+Reference = R5;
+ValeurCmp = 182k;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8052B3
+Path = /529D3E31
+Reference = R1;
+ValeurCmp = 23.2k;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8052D9
+Path = /529D4B5F
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B806A73
+Path = /52F86CDB
+Reference = R6;
+ValeurCmp = 36;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B806AAB
+Path = /529D4BD5
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B806AF2
+Path = /5B803282
+Reference = R7;
+ValeurCmp = 200k;
+IdModule  = R_0603_HandCustom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B806B10
+Path = /5B80AD3A
+Reference = D2;
+ValeurCmp = LED_CUSTOM;
+IdModule  = Diode_0603_Custom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B806B39
+Path = /5B7E13D5
+Reference = D1;
+ValeurCmp = DIODE_CUSTOM;
+IdModule  = Diode_0603_Custom:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B806B77
+Path = 
+Reference = REF**;
+ValeurCmp = VAL**;
+IdModule  = MOUNT_HOLE_4_40:MOUNT_HOLE_4_40;
+EndCmp
+
+BeginCmp
+TimeStamp = 529F90EF
+Path = /5B7DEFC8
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = BLOCK_CONN_2:BLOCK_CONN_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B803B73
+Path = /5B802DA7
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = BLOCK_CONN_2:BLOCK_CONN_2X1;
+EndCmp
+
+EndListe

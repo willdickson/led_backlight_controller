@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_CUSTOM
+D LED generic
+K led diode
+$ENDCMP
+#
+#End Doc Library

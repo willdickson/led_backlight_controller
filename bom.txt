@@ -1,0 +1,19 @@
+Part     Description                  Package     Vendor    Part Number                    Qty
+----     -----------                  -------     ------    -----------                    ---
+C1       capacitor   0.1uF            SM0603      Digikey   1276-1258-1-ND                  1
+D1       diode, schottky (fast resp)  SM0603      Digikey   SDM2U40CSP-7BDICT-ND            1
+D2       led blue (2.8Vf)             SM0603      Digikey   160-1827-1-ND                   1
+P1-P3    terminal block, 3.5mm vert   custom      Digikey   ED2635-ND                       3
+Q1       npn transistor               SOT-23-3    Digieky   FMMT619CT-ND                    1
+R1       resistor    23.2k            SM0603      Digikey   P23.2KHCT-ND                    1
+R2       resistor    976k             SM0603      Digikey   RMCF0603FT976KCT-ND             1
+R3       resistor    56               SM0603      Digikey   RHM56DCT-ND                     1
+R4       resistor    124k             SM0603      Digikey   311-124KDCT-ND                  1
+R5       resistor    182k             SMO603      Digikey   541-182KHCT-ND                  1
+R6       resistor    36               SM0603      Digikey   311-36GRCT-ND                   1
+R7       resistor    200k             SM0603      Digikey   RR08P200KDCT-ND                 1
+RV1      potentiometer 10k            custom      Digikey   P3T9103-ND                      1
+SW1      switch, slide, spdt          custom      Digikey   CKC5102-ND                      1
+U1       Voltage controlled PWM       TSOT-23-6   Digikey   LTC6992CS6-1#TRMPBFCT-ND        1   
+U2       3.3V Voltage Regulator       custom      Pololu    D24V3F3                         1
+
