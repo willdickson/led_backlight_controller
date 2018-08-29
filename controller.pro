@@ -1,4 +1,4 @@
-update=Fri 24 Aug 2018 10:00:06 AM PDT
+update=Wed 29 Aug 2018 09:06:10 AM PDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -90,3 +90,5 @@ LibName32=diode_custom
 LibName33=conn_2
 LibName34=pololu_3v3
 LibName35=led_custom
+LibName36=conn_3
+LibName37=bas07-04

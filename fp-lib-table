@@ -11,4 +11,6 @@
   (lib (name POLOLU_3V3)(type KiCad)(uri "$(KIPRJMOD)/POLOLU_3V3.pretty")(options "")(descr ""))
   (lib (name R_0603_HandCustom)(type KiCad)(uri "$(KIPRJMOD)/R_0603_HandCustom.pretty")(options "")(descr ""))
   (lib (name Diode_0603_Custom)(type KiCad)(uri "$(KIPRJMOD)/Diode_0603_Custom.pretty")(options "")(descr ""))
+  (lib (name BAS07)(type KiCad)(uri "$(KIPRJMOD)/BAS07.pretty")(options "")(descr ""))
+  (lib (name PIN_ARRAY_1X3)(type KiCad)(uri "$(KIPRJMOD)/PIN_ARRAY_1X3.pretty")(options "")(descr ""))
 )
