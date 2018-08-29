@@ -3,7 +3,9 @@ Part     Description                  Package     Vendor    Part Number         
 C1       capacitor   0.1uF            SM0603      Digikey   1276-1258-1-ND                  1
 D1       diode, schottky (fast resp)  SM0603      Digikey   SDM2U40CSP-7BDICT-ND            1
 D2       led blue (2.8Vf)             SM0603      Digikey   160-1827-1-ND                   1
-P1-P3    terminal block, 3.5mm vert   custom      Digikey   ED2635-ND                       3
+D3       diode pair Schottky          SOT-23-3    Digikey   BAS70-04-E3-08                  1
+P1-P4    terminal block, 3.5mm vert   custom      Digikey   ED2635-ND                       3
+P5       break away header 0.1"       NA          Digikey   S1011EC-40-ND                   1
 R1       resistor    23.2k            SM0603      Digikey   P23.2KHCT-ND                    1
 R2       resistor    976k             SM0603      Digikey   RMCF0603FT976KCT-ND             1
 R3       resistor    56               SM0603      Digikey   RHM56DCT-ND                     1
