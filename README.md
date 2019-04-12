@@ -1,5 +1,5 @@
 # led_backlight_controller 
-Simple 2A LED backlight controller based on the LTC6992 voltage controlled PWM modulator. 
+Simple 4A LED backlight controller based on the LTC6992 voltage controlled PWM modulator. 
 
 * [Schematic (PDF)](controller.pdf)
 * [Bill-of-materials](bom.txt)
